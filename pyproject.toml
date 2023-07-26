@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "how-to-use-poetry"
-version = "0.1.0"
+version = "0.1.2"
 description = ""
 authors = ["hbirru <henok.birru@nokia.com>"]
 readme = "README.md"
